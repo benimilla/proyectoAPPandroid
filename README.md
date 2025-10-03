@@ -1,1 +1,3 @@
-# proyectoAPPandroid
+La aplicación móvil permitirá al Centro Integral Alerce gestionar sus actividades comunitarias mediante un sistema de agenda digital. Cada actividad podrá ser puntual o periódica, con citas asociadas que incluyen fecha, hora y lugar.
+El sistema mostrará un calendario semanal interactivo para visualizar todas las actividades programadas. Los usuarios podrán crear, modificar, cancelar y reagendar actividades, así como adjuntar documentos y gestionar mantenedores (tipos de actividad, lugares, oferentes, proyectos).
+La app contará con autenticación mediante usuario y contraseña, recuperación de credenciales por correo electrónico y un sistema de alertas/notificaciones previas para los participantes y responsables de las actividades.
